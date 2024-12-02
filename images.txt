@@ -143,15 +143,17 @@
 #zerotier/zerotier
 #tancloud/hertzbeat
 #whitelionesstechnologies/windows-docker:ltsc2019
-rajnandan1/kener
-inglebard/retroarch-web
-xiaojusurvey/xiaoju-survey
+#rajnandan1/kener
+#inglebard/retroarch-web
+#xiaojusurvey/xiaoju-survey
 iyuucn/iyuuplus
 iyuucn/iyuuplus-dev
 201206030/mysql-novel-plus:4.3.0-RC1
 sitoi/dailycheckin
 azery12356/pterodactyl
 zyplayer/zyplayer-doc
-
+xiaolajiqaq/immich:1.0
+gotify/server-arm7:
+xiaojusurvey/xiaoju-survey:1.3.0-slim
 
 
