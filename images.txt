@@ -158,23 +158,23 @@
 #azery12356/pterodactyl:nodejs20
 
 #20241207
-mtphotos/mt-photos
-mtphotos/mt-photos-ai
-mtphotos/mt-photos-deepface
-alturismo/xteve_guide2go
-hectorqin/reader
-hectorqin/remote-webview
-ghcr.io/suwayomi/tachidesk
-cloudnas/clouddrive2
-nextcloud
-onlyoffice/documentserver
-ghcr.io/wg-easy/wg-easy
-ghcr.io/hoarder-app/hoarder-web
-gcr.io/zenika-hub/alpine-chrome:123
-ghcr.io/hoarder-app/hoarder-workers
-ossrs/srs-stack:v5
-louislam/uptime-kuma:1
-docker pull usual2970/certimate:latest
+#mtphotos/mt-photos
+#mtphotos/mt-photos-ai
+#mtphotos/mt-photos-deepface
+#alturismo/xteve_guide2go
+#hectorqin/reader
+#hectorqin/remote-webview
+#ghcr.io/suwayomi/tachidesk
+#cloudnas/clouddrive2
+#nextcloud
+#onlyoffice/documentserver
+#ghcr.io/wg-easy/wg-easy
+#ghcr.io/hoarder-app/hoarder-web
+#gcr.io/zenika-hub/alpine-chrome:123
+#ghcr.io/hoarder-app/hoarder-workers
+#ossrs/srs-stack:v5
+#louislam/uptime-kuma:1
+usual2970/certimate
 binwiederhier/ntfy
 docker.n8n.io/n8nio/n8n
 jlesage/nginx-proxy-manager
@@ -189,5 +189,6 @@ makedie/noname_kill
 shenxianmq/auto_symlink
 liuhangbin/fast115
 soulteary/flare
+sonatype/nexus
 
 
