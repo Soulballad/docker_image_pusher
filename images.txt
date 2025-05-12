@@ -203,7 +203,7 @@
 #gitea/gitea
 
 # 20250512
-amuluze/amprobe
+amuluze/amprobe:v1.3.3
 jauderho/docker-autocompose
 3grander/dagda
 crazymax/diun
